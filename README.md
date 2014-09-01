@@ -3,7 +3,8 @@ about
 
 very simple javascript function for convert english numbers to persian numbers.
 
-123 => ۱۲۳
+123 => "۱۲۳"
+"456" => "۴۵۶"
 
 how its work
 ==================
