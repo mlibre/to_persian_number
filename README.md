@@ -1,7 +1,7 @@
 about
 =========
 
-very simple javascript function for convert english numbers to persian numbers.
+very simple javascript function for convert english numbers to eb numbers.
 
 123 => "۱۲۳"  .
 
