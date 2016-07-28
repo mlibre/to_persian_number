@@ -4,7 +4,7 @@ Very simple and fast **javascript function** that **convert english numbers** to
 ---
 ## How It Work
 This is a javascript function that do this, **`ToPersian`** function.  
-**`ToPersian`** function get an **english** number(string or number) and return **persian** number in **`string`**.
+**`ToPersian`** function get an **english** number(string or number) and then return **persian** number in **`string`**.
 
 123 => "۱۲۳"  
 "456" => "۴۵۶"
