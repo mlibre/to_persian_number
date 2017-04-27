@@ -1,11 +1,6 @@
-function ToPersian(string)
+function ToPersian(str)
 {
-    var etp = ['۰' , '۱' , '۲' , '۳' , '۴' , '۵' , '۶' , '۷' , '۸' , '۹'];
-    var sr = "";
-    var st = string.toString();
-    for(var i = 0 ; i < st.length ; i++)
-    {
-        sr += etp[ parseInt(st[i]) ];
-    }
-    return sr;
+    return str.replace(/\d/g, function (d) { 
+    	return String.fromCharCode(1776 + parseInt(d));
+	});
 }
