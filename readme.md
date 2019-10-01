@@ -1,10 +1,10 @@
 # To Persian Number
-Very simple and fast **javascript function** that **convert english numbers** to **persian numbers**.
+Very simple and fast **javascript function** that **convert English numbers** to the **Persian numbers**.
 
 ---
 ## How It Work
-This is a javascript function that do this, **`ToPersian`** function.  
-**`ToPersian`** function get an **english** number(string or number) and then return **persian** number in **`string`**.
+A function that do the thing, **`ToPersian`** function.  
+**`ToPersian`** function get an **English** number(string or number) and then return **Persian** number in **`string`**.
 
 123 => "۱۲۳"  
 "456" => "۴۵۶"
@@ -39,6 +39,6 @@ This project has no license! You may consider this as **Public Domain**, **CC0**
 
 ---
 ## Donate Bitcoin
-My **Bitcoin Wallet** Address: `1AHL9xkqMwVmp5uZoMy4PbRHJ4wMX1pqdy`
+My **Bitcoin Wallet** Address: `3JfNjydkEgKGjsnrU1SoCCAv1q2yTuCoDY`
 
 ---
